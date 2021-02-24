@@ -1,0 +1,46 @@
+{
+    "screen-settings": {
+        "title": "YourLuckApp",
+        "width": 300,
+        "height": 500,
+        "titlebar-height": 24
+    },
+    "colors": {
+        "dark-green": "#181C23",
+        "night-green": "#122C33",
+        "main-green": "#2B7062",
+        "light-green": "#83C68D",
+        "yellow-green": "#D2F07A",
+        "white": "#F1F1F1"
+    },
+    "font-family": {
+        "text-font": "NunitoSans-Regular.ttf",
+        "tittle-font": "Laila-Regular.ttf",
+        "button-font": "Lamonada-Regular.ttf",
+        "button-font-bold": "Lemonada-Bold.ttf"
+    }, 
+    "font-size": {
+        "small": 11,
+        "medium": 18,
+        "large": 24
+    },
+    "images": {
+        "app-logo-icon": ".//src//img//app-imgs//app-logo-icon.png",
+        "background-image": ".//src//img//app-imgs//background-image.png",
+        "close-icon": {
+            "default": ".//src//img//close-button-imgs//close-icon-default.png",
+            "hover": ".//src//img//close-button-imgs//close-icon-hover.png",
+            "pressed": ".//src//img//close-button-imgs//close-icon-pressed.png"
+        },
+        "minimize-icon": {
+            "default": ".//src//img//minimize-button-imgs//minimize-icon-default.png",
+            "hover": ".//src//img//minimize-button-imgs//minimize-icon-hover.png",
+            "pressed": ".//src//img//minimize-button-imgs//minimize-icon-pressed.png"
+        },
+        "maximize-icon": {
+            "default": ".//src//img//maximize-button-imgs//maximize-icon-default.png",
+            "hover": ".//src//img//maximize-button-imgs//maximize-icon-hover.png",
+            "pressed": ".//src//img//maximize-button-imgs//maximize-icon-pressed.png"
+        }
+    }
+}
